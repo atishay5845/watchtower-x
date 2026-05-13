@@ -18,7 +18,7 @@ const config: Config = {
       },
       colors: {
         // --- MODERN AURORA PALETTE ---
-        // 'brand' - PingAlert Green
+        // 'brand' - WatchTowerX Green
         brand: {
           '25': '#f0fdf4', // Lightest green
           '50': '#f0fdf4', 

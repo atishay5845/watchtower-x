@@ -90,7 +90,7 @@ export const UpgradePageContent = ({ plan: initialPlan }: { plan: Plan }) => {
         </div>
         <p className="text-sm/6 text-gray-600 dark:text-zinc-700 max-w-prose">
           {currentPlan === "PRO"
-            ? "Thank you for supporting PingAlert. Find your increased usage limits below."
+            ? "Thank you for supporting WatchTowerX. Find your increased usage limits below."
             : "Get access to more events, categories and premium support."}
         </p>
       </div>

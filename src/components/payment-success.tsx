@@ -103,12 +103,7 @@ export const PaymentSuccessModal = () => {
                 Upgrade successful! 🎉
               </p>
               <p className='text-gray-600 text-sm/6 text-pretty'>
-                Thank you for upgrading to Pro and supporting PingAlert. Your account has been upgraded.
-              </p>
-            </div>
-
-            <div className='mt-8 w-full'>
-              <Button onClick={handleClose} className='h-12 w-full'>
+                  Thank you for upgrading to Pro and supporting WatchTowerX. Your account has been upgraded.
                 <CheckIcon className='mr-2 size-5' />
                 Go to Dashboard
               </Button>

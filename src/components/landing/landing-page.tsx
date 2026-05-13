@@ -115,7 +115,7 @@ export const LandingPage = () => {
                     Customer Success Stories
                   </h2>
                   <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-                    "Since implementing PingAlert, our incident response time has dropped by 60%. The 24/7 monitoring capabilities allow our team to sleep soundly, knowing we'll be alerted the second anything goes wrong."
+                    "Since implementing WatchTowerX, our incident response time has dropped by 60%. The 24/7 monitoring capabilities allow our team to sleep soundly, knowing we'll be alerted the second anything goes wrong."
                   </p>
                   <div>
                     <p className="font-bold text-gray-900 dark:text-white">Sarah Jenkins</p>

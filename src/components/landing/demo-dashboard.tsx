@@ -11,7 +11,7 @@ export function DemoDashboard() {
           <div className="size-3 rounded-full bg-green-400" />
         </div>
         <div className="flex items-center gap-2 text-xs text-gray-400 bg-white dark:bg-gray-800 border dark:border-gray-700 px-3 py-1 rounded-md shadow-sm">
-          <span>pingalert.com/dashboard</span>
+          <span>watchtowerx.com/dashboard</span>
         </div>
         <div className="w-12" />
       </div>
@@ -23,7 +23,7 @@ export function DemoDashboard() {
         <div className="col-span-2 hidden md:flex flex-col gap-4 border-r border-gray-100 dark:border-gray-800 pr-4">
            <div className="font-bold text-gray-900 dark:text-white flex items-center gap-2 mb-4">
               <div className="size-6 bg-brand-600 rounded-md" />
-              PingAlert
+              WatchTowerX
            </div>
            {[1,2,3,4].map(i => (
               <div key={i} className="h-2 w-3/4 bg-gray-200 dark:bg-gray-800 rounded-full" />

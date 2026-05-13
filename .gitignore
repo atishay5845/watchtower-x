@@ -41,7 +41,7 @@ next-env.d.ts
 # wrangler
 .wrangler
 
-/PingAlert
+/WatchTowerX
 
 # clerk configuration (can include secrets)
 /.clerk/

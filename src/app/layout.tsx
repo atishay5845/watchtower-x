@@ -17,8 +17,8 @@ const eb_garamond = EB_Garamond({
 // text
 
 export const metadata: Metadata = {
-  title: "Ping Alert",
-  description: "Ping any events to your Discord",
+  title: "WatchTowerX",
+  description: "WatchTowerX delivers event alerts and analytics to Discord",
 }
 
 export default function RootLayout({
@@ -29,8 +29,8 @@ export default function RootLayout({
   return (
     <ClerkProvider
       localization={{
-        signIn: { start: { title: "Sign in to PingAlert" } },
-        signUp: { start: { title: "Sign up for PingAlert" } },
+        signIn: { start: { title: "Sign in to WatchTowerX" } },
+        signUp: { start: { title: "Sign up for WatchTowerX" } },
       }}
     >
       <html lang="en" className={cn(inter.variable, eb_garamond.variable)}>
