@@ -1,5 +1,7 @@
 # WatchTowerX
 
+Live demo: https://ping-alert-chi.vercel.app
+
 A modern monitoring and alerting platform built with Next.js, Clerk, Stripe, PostgreSQL/Neon, Discord, and Tailwind CSS.
 
 WatchTowerX is designed for teams who want instant, actionable event notifications delivered directly to Discord and a beautiful analytics dashboard for real-time uptime and event tracking.
